@@ -74,7 +74,7 @@ print(notabinario(153))
 # invierta los números de un arreglo de enteros.
 def invertir_arreglo(A=[]):
     return A if len(A) <= 1 else [A[-1]] + invertir_arreglo(A[:-1])
-
+print(invertir_arreglo([3,5,1,6,-1,2342,43]))
 
 #H Para la implementación de Merge en el algoritmo merge_sort visto en clase,
 # haga el análisis temporal por método de factores con función cáracteristica

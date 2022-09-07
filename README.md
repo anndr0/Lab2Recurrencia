@@ -10,7 +10,7 @@ _Funciones que dan solución a los siguientes problemas:_
   MCD = M si N =0
   MCD = MCD (N, M mod N) si N <> 0
 ​
-* Escriba un programa que le permita al usuario ingresar los valores para M y N desde la consola. Una función recursiva es entonces llamada para calcular el MCD. El      programa entonces imprime el valor para el MCD.
+Escriba un programa que le permita al usuario ingresar los valores para M y N desde la consola. Una función recursiva es entonces llamada para calcular el MCD. El      programa entonces imprime el valor para el MCD.
 * E. Programe un método recursivo que transforme un número entero positivo a notación binaria.
 ​
   Ejemplo: 5 - 101
